@@ -1,0 +1,18 @@
+4. Electric charge has three basic properties: quantisation, additivity
+   and conservation.
+    
+     Quantisation of electric charge means that total charge (q) of a body
+   is always an integral multiple of a basic quantum of charge (e) i.e.,
+   q = n e, where n = 0, ñ1, ñ2, ñ3, .... Proton and electron have charges
+   +e, -e, respectively. For macroscopic charges for which n is a very large
+   number, quantisation of charge can be ignored.
+     
+     Additivity of electric charges means that the total charge of a system
+   is the algebraic sum (i.e., the sum taking into account proper signs)
+   of all individual charges in the system.
+     
+     Conservation of electric charges means that the total charge of an
+   isolated system remains unchanged with time. This means that when
+   bodies are charged through friction, there is a transfer of electric charge
+   from one body to another, but no creation or destruction of charge.
+	Press <-- for back		Press --> for next

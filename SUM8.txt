@@ -1,0 +1,19 @@
+15. Gaussís law: The flux of electric field through any closed surface S is
+    1/Ó times the total charge enclosed by S. The law is especially useful
+    in determining electric field E, when the source distribution has simple
+    symmetry:
+    
+    (i) Thin infinitely long straight wire of uniform linear charge density,(lambda)
+
+            E = (1/4„Ó) X (2 x lambda/r) É
+  
+     where r is the perpendicular distance of the point from the wire and
+     É is the radial unit vector in the plane normal to the wire passing
+     through the point.
+
+    (ii) Infinite thin plane sheet of uniform surface charge density Â
+
+            E = Â/2Ó É
+
+     where É is a unit vector normal to the plane, outward on either side.
+	Press <-- for back		Press --> for next

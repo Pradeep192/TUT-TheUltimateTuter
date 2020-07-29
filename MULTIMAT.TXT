@@ -1,0 +1,13 @@
+
+ multiplication of matrices  :- 
+ for multiplication of two matrices 1st and 2nd, the number of columns in 1st
+ should be equal to the number of rows in 2nd.  
+ for getting the elements of the product matrix,we take rows of 1st and columns  of 2nd, multiply them element wise and take the sum.
+
+
+		 example is :- 
+
+   _  _     _  _       __            __         _   _   
+  |2  3| x |2  3|  =  |2x2+3x4  2x3+3x5|   =   |16 21|  
+  |4  5|   |4  5|     |4x2+5x4  4x3+5x5|       |28 37|  
+   -  -     -  -       --            --         -    -  

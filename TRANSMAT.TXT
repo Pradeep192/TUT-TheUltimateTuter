@@ -1,0 +1,8 @@
+
+ transpose of matrix :-  
+
+          _  _                  _   _       
+         |3  5|                |3 6 0|      
+ if A =  |6  1|   , then A' =  |5 1 7|      
+         |0  7|                 -   - 2x3   
+          -  - 3x2                          

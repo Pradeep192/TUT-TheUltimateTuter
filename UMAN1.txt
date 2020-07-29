@@ -1,0 +1,15 @@
+GENERAL DESCRIPTION
+	This program solves numerical problems of Electric Charges and Fields of Physics  
+textbook, Solid State of Chemistry textbook and Matrices of Mathematics textbook of 
+class XII CBSE. This can be extended to solve numericals of other chapters and other
+subjects also.
+
+RUN FLOW
+	The program first prompts a user manual, then after pressing any key it proceeds
+to main menu. The menu has five options where you select the subject: 
+1. Physics
+2. Chemistry
+3. Mathematics
+4. Need Any Help
+5. Exit
+

@@ -1,0 +1,23 @@
+5. Coulomb’s Law: The mutual electrostatic force between two point
+   charges q1 and q2 is proportional to the product q1q2 and inversely
+   proportional to the square of the distance r separating them.
+   Mathematically,
+    
+     F = force on q2 due to q1 = k(q1q2)/rý
+     
+      where k= 1\4ãî is the constant of proportionality.
+   
+   In SI units, the unit of charge is coulomb. The experimental value of
+   the constant î is
+     
+      î = 8.854e(-12) Cý/N mý
+
+   The approximate value of k is
+     
+       k = 9e9 N mý/Cý
+
+6. The ratio of electric force and gravitational force between a proton
+   and an electron is
+    
+     keý/GMm ÷ 2.4e39
+	Press <-- for back		Press --> for next

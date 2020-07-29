@@ -1,0 +1,17 @@
+12.Packing efficiency for 
+	(a) hcp and ccp structure = 74%
+	(b) body centered = 68%
+	(c) simple cubic lattice = 52.4%
+
+13.Imperfections in solids are electronic or point deffects.
+
+14.Semiconductors are of two types : n-type and p-type.
+
+15.n-type semiconductors are formed by adding small amounts of elements of group 15
+   to the pure elements of group 14 such as Si and Ge.
+
+16.p-type semiconductors are formed by adding small amounts of elements of group 13
+   to the pure elements of group 14.
+
+17.Paramagnetic substances show magnetic behaviour only under the influence of the
+   applied magnetic fields.

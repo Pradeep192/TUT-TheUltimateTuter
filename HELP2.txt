@@ -1,0 +1,12 @@
+The first option "Summary of the unit" provides a brief summary of the chapter.
+The second option "Problem Solver" will take a numerical problem from the user and 
+gives the  stepwise detailed solution.
+The third option "Help on how TUT can help you" opens this user manual.
+The forth option "Exit" will close the program.
+
+SPECIAL RUN INSTRUCTIONS
+1. While writing a physical quantity, then there must only be a single space b/w 
+the magnitude and the unit.
+2. The scientific notation which is represented as "AeB" is for "A x 10^B" .
+3. Use 'u' as a prefix in place of the symbol for micro. 
+			Press <-- for back

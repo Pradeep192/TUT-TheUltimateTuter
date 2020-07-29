@@ -1,0 +1,19 @@
+c. Problems on Matrices : This option takes you to another window which has the following options
+
+			        i. Addition of Matrix
+			       ii. Subtraction of Matrix
+			      iii. Multiplication of Matrix
+			       iv. Transpose of Matrix
+				v. Inverse of Matrix
+			       vi. Back to previous menu
+d. Back to Subject List : This option takes you back to the previous menu
+
+The fourth option "Need any help" opens this user manual
+
+The fifth option "Exit" will close the program.
+
+SPECIAL RUN INSTRUCTIONS
+1. While writing a quantity, then there must only be a single space b/w 
+the magnitude and the unit.
+2. The scientific notation which is represented as "AeB" is for "A x 10^B" .
+3. Use 'u' as a prefix in place of the symbol for micro. 

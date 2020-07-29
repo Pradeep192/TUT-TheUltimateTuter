@@ -1,0 +1,23 @@
+7. Superposition Principle: The principle is based on the property that the
+   forces with which two charges attract or repel each other are not
+   affected by the presence of a third (or more) additional charge(s). For
+   an assembly of charges q1, q2, q3, ..., the force on any charge, say q1, is
+   the vector sum of the force on q1 due to q2, the force on q1 due to q3,
+   and so on. For each pair, the force is given by the Coulomb’s law for
+   two charges stated earlier.
+
+8. The electric field E at a point due to a charge configuration is the
+   force on a small positive test charge q placed at the point divided by
+   the magnitude of the charge. Electric field due to a point charge q has
+   a magnitude |q|/4ãîrý; it is radially outwards from q, if q is positive,
+   and radially inwards if q is negative. Like Coulomb force, electric field
+   also satisfies superposition principle.
+
+9. An electric field line is a curve drawn in such a way that the tangent
+   at each point on the curve gives the direction of electric field at that
+   point. The relative closeness of field lines indicates the relative strength
+   of electric field at different points; they crowd near each other in regions
+   of strong electric field and are far apart where the electric field is
+   weak. In regions of constant electric field, the field lines are uniformly
+   spaced parallel straight lines.
+	Press <-- for back		Press --> for next

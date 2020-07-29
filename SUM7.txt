@@ -1,0 +1,15 @@
+14. The flux í of electric field E through a small area element S is
+    given by
+
+      í = E.S 
+   
+    The vector area element S is
+   
+      S = S ƒ 
+
+    where S is the magnitude of the area element and ƒ is normal to the
+    area element, which can be considered planar for sufficiently small S.
+
+   For an area element of a closed surface, ƒ is taken to be the direction
+   of outward normal, by convention.
+	Press <-- for back		Press --> for next

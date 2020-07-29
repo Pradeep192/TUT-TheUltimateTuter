@@ -1,0 +1,10 @@
+The first option "Physics" takes you to another window where you get three options as:
+a. Summary of the Unit : This option provides the summary of the said Unit
+b. Problem Solver : This option takes question in text and gives the step-wise solution
+c. Back to Subject List : This option takes you back to the previous menu
+
+The second option "Chemistry" takes you to another window which is same as the menu under "Physics"
+
+The third option "Mathematics" takes you to another window where you get four options as:
+a. About Matrix : This option provides a brief description about matrix
+b. Operations on Matrix : This option describes about different operations which can be performed on Matrix 

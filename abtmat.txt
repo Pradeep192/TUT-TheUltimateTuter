@@ -1,0 +1,22 @@
+M A T R I X :- A matrix is collection of numbers that are arranged into a fixed number of row and columns. Usually the numbers are real numbers.
+	An example of matrix :- 
+	
+	column            1 2 3 
+	                  _   _ 
+	row 1 :-         |1 2 3|
+	row 2 :-         |4 5 6|
+	row 3 :-         |7 8 9|
+	                  -   -  
+	The top row is row 1. The leftmost column is column 1.
+This matrix is a 3x3 matrix because it has three rows and three columns.
+In describing matrices, the format is:
+
+			rows X columns 
+
+Each number that makes up a matrix is called an element of the matrix.
+
+The elements in a matrix have specific locations.
+The upper left corner of the matrix is row 1 column 1.
+
+In the above matrix the element at row 1 column 1 is 
+the value 1, the element at row 2 column 3 is the value 6.

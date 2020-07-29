@@ -1,0 +1,23 @@
+12. Field of an electric dipole in its equatorial plane (i.e., the plane
+   perpendicular to its axis and passing through its centre) at a distance
+   r from the centre:
+
+        E = (1/4го) X {-p/(aэ+rэ)^3/2}
+          
+          ч (1/4го) X (-p/r^3) ,  for r >> a   
+ 
+   Dipole electric field on the axis at a distance r from the centre:
+
+        E = (1/4го) X {2pr/(rэ-aэ)э}
+
+          ч (1/4го) X (p/r^3)   for r >> a
+
+   The 1/r^3 dependence of dipole electric fields should be noted in contrast
+   to the 1/rэ dependence of electric field due to a point charge.
+
+13. In a uniform electric field E, a dipole experiences a torque в given by
+     
+       в = p x E
+      
+      but experiences no net force.
+	Press <-- for back		Press --> for next

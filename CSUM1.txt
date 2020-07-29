@@ -1,0 +1,14 @@
+1.Solids have definite mass, volume and shape due to the fixed position of their
+  constituent particles.
+
+2.Amorphous and crystalline are two types of solids.
+
+3.On the basis of interaction between constituent particles, crystalline solids are divided into four categories: ionic,molecular,metallic and covalent solids.
+
+4.The three dimensional arrangement of constituents or points in a crystalline  solid is called crystal lattice.
+
+5.The smallest repeating pattern of the crystal lattice is known as unit cell.
+  A unit cell is characterised by six parameters: edges a,b,c and angles alpha,
+  beta and gama.
+
+6.Number of lattice points or atoms in simple cubic unit cell is 1.

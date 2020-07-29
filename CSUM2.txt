@@ -1,0 +1,18 @@
+7.A tetrahedral void is formed when spheres are tetrahedrally arranged in space
+  while octahedral void is formed by there octahedral arrangement. 
+
+8.Coordination number is the number of neighbouring atoms for an atom in a crystal.
+  Coordination number of trigonal planer equals to 3 , tetrahedral equals to 4 ,
+  octahedral equals to 6 and body centered is 8.
+
+9.Atomic radii is related to edge length as follows:
+         r = a/2 (simple), r = (rt3/4)a (body centered), r = a/2rt2 (face centered).
+
+10.Density(d) of a unit cell can be calculated by:
+	      d = (Z x M)/(a^3 x N_a)
+   Where, Z = No. of atoms per unit cell 
+          M = atomic mass (or molecular mass)
+          N_a = Avogadro constant
+          a = edge length
+
+11.Packing efficiency is the percentage of total space filled by the particals.

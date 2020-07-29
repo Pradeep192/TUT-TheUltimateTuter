@@ -1,0 +1,13 @@
+1. Electric and magnetic forces determine the properties of atoms,
+   molecules and bulk matter.
+
+2. From simple experiments on frictional electricity, one can infer that
+   there are two types of charges in nature; and that like charges repel
+   and unlike charges attract. By convention, the charge on a glass rod
+   rubbed with silk is positive; that on a plastic rod rubbed with fur is
+   then negative.
+
+3. Conductors allow movement of electric charge through them, insulators
+   do not. In metals, the mobile charges are electrons; in electrolytes
+   both positive and negative ions are mobile.
+				Press --> for next

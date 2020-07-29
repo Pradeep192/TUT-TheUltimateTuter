@@ -1,0 +1,43 @@
+1.Solids have definite mass, volume and shape due to the fixed position of their
+  constituent particles.
+2.Amorphous and crystalline are two types of solids.
+3.On the basis of interaction between constituent particles, crystalline solids are
+  divided into four categories: ionic,molecular,metallic and covalent solids.
+4.The three dimensional arrangement of constituents or points in a crystalline solid
+  is called crystal lattice.
+5.The smallest repeating pattern of the crystal lattice is known as unit cell.
+  A unit cell is characterised by six parameters: edges a,b,c and angles alpha,
+  beta and gama.
+6.Number of lattice points or atoms in simple cubic unit cell is 1.
+7.A tetrahedral void is formed when spheres are tetrahedrally arranged in space
+  while octahedral void is formed by there octahedral arrangement. 
+8.Coordination number is the number of neighbouring atoms for an atom in a crystal.
+  Coordination number of trigonal planer equals to 3 , tetrahedral equals to 4 ,
+  octahedral equals to 6 and body centered is 8.
+9.Atomic radii is related to edge length as follows:
+         r = a/2 (simple), r = (rt3/4)a (body centered), r = a/2rt2 (face centered).
+10.Density(d) of a unit cell can be calculated by:
+	      d = (Z x M)/(a^3 x N_a)
+   Where, Z = No. of atoms per unit cell 
+          M = atomic mass (or molecular mass)
+          N_a = Avogadro constant
+          a = edge length
+11.Packing efficiency is the percentage of total space filled by the particals.
+12.Packing efficiency for 
+	(a) hcp and ccp structure = 74%
+	(b) body centered = 68%
+	(c) simple cubic lattice = 52.4%
+13.Imperfections in solids are electronic or point deffects.
+14.Semiconductors are of two types : n-type and p-type.
+15.n-type semiconductors are formed by adding small amounts of elements of group 15
+   to the pure elements of group 14 such as Si and Ge.
+16.p-type semiconductors are formed by adding small amounts of elements of group 13
+   to the pure elements of group 14.
+17.Paramagnetic substances show magnetic behaviour only under the influence of the
+   applied magnetic fields.
+18.Ferromagnetic substances exhibit magnetism even when applied magnetic field is
+   removed.
+19.Antiferromagnetic substances have no magnetic moment since the electronic spins
+   mutually cancel under the influence of external magnetic field.
+20.Ferrimagnetic substances exhibit some magnetic character due to alignment of the
+   electron spins in parallel and antiparallel directions in unequal numbers.

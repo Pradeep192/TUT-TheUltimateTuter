@@ -1,0 +1,8 @@
+18.Ferromagnetic substances exhibit magnetism even when applied magnetic field is
+   removed.
+
+19.Antiferromagnetic substances have no magnetic moment since the electronic spins
+   mutually cancel under the influence of external magnetic field.
+
+20.Ferrimagnetic substances exhibit some magnetic character due to alignment of the
+   electron spins in parallel and antiparallel directions in unequal numbers.

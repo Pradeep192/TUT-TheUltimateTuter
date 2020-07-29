@@ -1,0 +1,14 @@
+(iii) Thin spherical shell of uniform surface charge density @
+
+            E = (1/4γξ) X (q/rύ) ƒ  (r ς R)
+
+            E = 0  (r < R)
+     
+     where r is the distance of the point from the centre of the shell and R
+     the radius of the shell. q is the total charge of the shell: q = 4γRύε.
+     
+     The electric field outside the shell is as though the total charge is
+     concentrated at the centre. The same result is true for a solid sphere
+     of uniform volume charge density. The field is zero at all points inside
+     the shell.
+	Press <-- for back		

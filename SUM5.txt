@@ -1,0 +1,9 @@
+10. Some of the important properties of field lines are: (i) Field lines are
+   continuous curves without any breaks. (ii) Two field lines cannot cross
+   each other. (iii) Electrostatic field lines start at positive charges and
+   end at negative charges — they cannot form closed loops.
+
+11. An electric dipole is a pair of equal and opposite charges q and -q
+   separated by some distance 2a. Its dipole moment vector p has
+   magnitude 2qa and is in the direction of the dipole axis from -q to q.
+	Press <-- for back		Press --> for next
